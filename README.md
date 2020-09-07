@@ -1,2 +1,2 @@
 # vmware_powercli
-This running code for VMware
+This repository contains VMware scripts
